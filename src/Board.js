@@ -115,8 +115,9 @@ class Board extends Component {
       <div>
         {this.state.hasWon ? (
           <div className="winner">
-            <span className="neon-orange">YOU</span>
-            <span className="neon-blue">WIN!</span>
+            <span className="neon-orange">CHEERS🍻</span>
+            <br></br>
+            <span className="neon-blue">YOU DID IT!</span>
           </div>
         ) : (
           <div>
