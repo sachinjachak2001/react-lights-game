@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "860e74287e8b5eee624e",
+    "revision": "46a11916e8630ccd44f0",
     "url": "/react-lights-game/static/css/main.ac33fc42.chunk.css"
   },
   {
-    "revision": "860e74287e8b5eee624e",
-    "url": "/react-lights-game/static/js/main.860e7428.chunk.js"
+    "revision": "46a11916e8630ccd44f0",
+    "url": "/react-lights-game/static/js/main.46a11916.chunk.js"
   },
   {
     "revision": "b43a7eab4c27c21e54e5",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-lights-game/static/js/runtime~main.23b93062.js"
   },
   {
-    "revision": "31e3f6aa296e534d5acae8d4c8d62006",
+    "revision": "5588f7e85b3984e94ec7ba052263448c",
     "url": "/react-lights-game/index.html"
   }
 ];
